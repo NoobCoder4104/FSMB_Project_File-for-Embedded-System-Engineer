@@ -47,6 +47,5 @@ The system monitors input voltage, displays readings on an LCD, and controls a r
 
 ## Example Circuit (Proteus)
 
+![Voltage Controller Schematic](New%20Project.SVG)
 
-```markdown
-![Proteus Circuit](docs/voltage_controller_schematic.png)
